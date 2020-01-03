@@ -1,0 +1,13 @@
+There are many libraries for extending the functionality of Python.
+
+SciKit-Learn was created specifically for building predictive models.
+
+Predictive modeling is focused on building accurate models without regard to how they are built. 
+
+In machine learning column names are called features. 
+
+The rows are called observations.
+
+The feature we are trying to predict is called a target variable. 
+
+Choosing what columns or features to use in the modeling process is called feature selection.
